@@ -10,4 +10,3 @@ function upperCaseCustomerName(customerName)
   };
 }
 
-function setBestCustomer
