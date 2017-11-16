@@ -2,4 +2,4 @@
 
 var customerName = 'Sudha'
 
-function upperCaseCustomerName() {}
+function upperCaseCustomerName(customerName) {}
