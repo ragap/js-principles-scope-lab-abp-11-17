@@ -7,7 +7,7 @@ function upperCaseCustomerName(customerName)
 {
  if (customerName === 'bob')
   {
-    return customerName.toUpperCase()
+     customerName=customerName.toUpperCase()
   }
 }
 
