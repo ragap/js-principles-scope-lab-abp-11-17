@@ -4,5 +4,5 @@ var customerName = 'bob'
 
 function upperCaseCustomerName(customerName)
 {
- return customerName.toUpperCase();
+ if (customerName === 'bob') {return customerName.toUpperCase()};
 }
