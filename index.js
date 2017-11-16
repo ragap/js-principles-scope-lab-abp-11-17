@@ -10,9 +10,7 @@ function upperCaseCustomerName(customerName)
   };
 }
 
-function setBestCustomer() {
+function setBestCustomer()
+ {
   bestCustomer = 'not bob'
-
-
-
-}
+  }
