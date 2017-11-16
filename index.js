@@ -7,9 +7,9 @@ const leastFavoriteCustomer  = 'susan'
 // {
 //  return customerName = customerName.toUpperCase()
 // }
-function upperCaseCustomerName () {
-return customerName = customerName.toUpperCase();
-}
+// function upperCaseCustomerName () {
+// return customerName = customerName.toUpperCase();
+// }
 
 function setBestCustomer()
  {
