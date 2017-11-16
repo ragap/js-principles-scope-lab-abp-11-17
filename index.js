@@ -6,6 +6,6 @@ function upperCaseCustomerName(customerName)
 {
  if (customerName === 'bob')
   {
-    console.log(customerName.toUpperCase()) 
+    return(customerName.toUpperCase())
   };
 }
