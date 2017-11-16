@@ -22,3 +22,6 @@ function overwriteBestCustomer()
 }
 
 function changeLeastFavoriteCustomer() {}
+
+
+function attemptTwoFavoriteCustomers() {}
