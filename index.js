@@ -6,6 +6,8 @@ function upperCaseCustomerName(customerName)
 {
  if (customerName === 'bob')
   {
-    return(customerName.toUpperCase())
+    return customerName.toUpperCase()
   };
 }
+
+function setBestCustomer
