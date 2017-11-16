@@ -9,3 +9,5 @@ function upperCaseCustomerName(customerName)
     return customerName.toUpperCase()
   };
 }
+
+function setBestCustomer() {}
